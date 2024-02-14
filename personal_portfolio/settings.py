@@ -124,5 +124,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-MEDIA_URL = '/sadasd/' # можно указать что хочешь
+MEDIA_URL = '/media/' # можно указать что хочешь
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
